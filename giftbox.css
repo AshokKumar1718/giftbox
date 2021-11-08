@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient( to bottom, rgb(31, 121, 182), pink);
+}
+
+.centertext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.inputBox {
+    height: 50px;
+    width: 300px;
+    background-color: rgb(240, 92, 220);
+    color: black;
+}
+.button {
+    height: 50px;
+    width: 200px;
+    background-color: rgb(24, 146, 13);
+    color: black;
+}
+.giftbox {
+height: 300px;
+width:50%;
+margin-top: 20px;
+margin-left: 500px;
+background-color: aliceblue;
+overflow: scroll;
+
+}
